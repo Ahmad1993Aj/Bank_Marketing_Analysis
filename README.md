@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-"#Bank_Marketing_Analysis" 
-=======
 # Bank Marketing Analysis
 
 This repository contains code for performing a bank marketing analysis. It includes data exploration, data distribution visualization, and model training and evaluation using various classifiers. The analysis is presented using a Streamlit web application.
